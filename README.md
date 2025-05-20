@@ -23,10 +23,3 @@ This project performs exploratory data analysis and visualization on historical 
 - Matplotlib
 - Jupyter Notebook
 
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/city-temperature-analysis.git
-   cd city-temperature-analysis
-
